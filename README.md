@@ -4,7 +4,7 @@ Required :
 1. AdminLTE v2.4.5
 2. JQuery >= 3.3.1
 
-js ini digunakan untuk menampilkan menu dengan menggunakan file JSON atau ajax di template AdminLTE v2.4.5. fungsi ini juga dapat menampilkan top menu (navbar) pada template.
+js ini digunakan untuk menampilkan menu dengan menggunakan file JSON di template AdminLTE v2.4.5. fungsi ini juga dapat menampilkan top menu (navbar) pada template.
 load script `menu.js` dengan tag seperti dibawah ini. letakan file JSON pada satu folder dengan menu.js
 ```javascsript
 <script src="/path/to/menu.js"></script>
