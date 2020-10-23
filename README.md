@@ -71,4 +71,5 @@ tag diatas menampilkan menu pada sidebar, `options` yang tersedia adalah `menuac
 
 
 # Screenshot
-
+![alt text](all_menu.png)
+![alt text](search_menu.png)
