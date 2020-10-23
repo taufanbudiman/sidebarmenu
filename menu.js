@@ -1,6 +1,6 @@
 ﻿// Make sure jQuery has been loaded
 if (typeof jQuery === 'undefined') {
-    throw new Error('Astrid requires jQuery');
+    throw new Error('Requires jQuery');
 }
 
 (function($) {
@@ -75,7 +75,7 @@ if (typeof jQuery === 'undefined') {
 
     var menuJsonList = [];
     $.ajax({
-        url: "/astrid/AstridMVC/Areas/lms/menu.json",
+        url: "menu.json",
         cache: false,
         async: false,
         success: function (menus) {
